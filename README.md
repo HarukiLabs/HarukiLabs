@@ -101,8 +101,8 @@ int main() {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=panda&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=panda&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=HarukiLabs&theme=panda&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=HarukiLabs&theme=panda&hide_border=false)
 
 </div>
 
@@ -127,7 +127,7 @@ int main() {
 
 ###
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=HarukiLabs&icon=0&color=0)
 
 **Nice to meet you!🚀**
 

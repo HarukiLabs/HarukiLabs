@@ -1,8 +1,8 @@
 <div align="center">
 
-# Normies
+# Normies (┬┬﹏┬┬)
 
-<img src="assets/kaoru-hana-wa-rin-to-saku-kaoruko-waguri.gif" width="700">
+<img src="assets/n/kaoru-hana-wa-rin-to-saku-kaoruko-waguri.gif" width="700">
 
 <br>
 

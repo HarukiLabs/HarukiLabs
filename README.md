@@ -126,17 +126,30 @@ int main() {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarukiLabs&theme=github-compact&hide_border=false&bg_color=292D3E&color=F8D866&line=F85D7F&point=FFFFFF)](https://github.com/HarukiLabs)
 
 </div>
-
 ---
 
-<img align="right" height="150" src=""  />
+## BTW
+<div align="center">
 
----
+### 🌙 Little Corner of the Internet  
+A place to chill, code, and vibe.
 
-###
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=HarukiLabs&icon=0&color=0)
-
-**Nice to meet you!🚀**
+<img src="assets/n/waguri.gif" alt="waguri gif" height="150"/>
 
 </div>
+
+---
+
+<div align="center">
+    
+![Profile Views](https://komarev.com/ghpvc/?username=HarukiLabs&style=for-the-badge)
+
+<br>
+
+**Nice to meet you!🚀**
+</div>
+
+
+
+
+

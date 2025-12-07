@@ -23,20 +23,23 @@ using namespace std;
 
 class Developer {
 public:
-    const string name = "Haruki HelloWorld";
-    const string from = "Indonesia";
-    const string role = "Computer Enthusiast";
+    const string name  = "Haruki HelloWorld";
+    const string from  = "Indonesia";
+    const string role  = "Beginner Computer Enthusiast";
+    const string note  = "Still learning the basics and building small projects.";
 
     struct TechStack {
-        vector<string> languages = {"C++", "Python", "JavaScript"};
+        // currently learning / playing with
+        vector<string> languages  = {"C++", "Python", "JavaScript"};
         vector<string> frameworks = {"Laravel", "Django", "Node.js", "Burp Suite", "BeEF"};
-        vector<string> databases = {"MySQL", "MongoDB", "SQLite"};
-        vector<string> tools = {"VS Code", "Git", "Nmap", "Wireshark", "SQLMap", "Kali"};
+        vector<string> databases  = {"MySQL", "MongoDB", "SQLite"};
+        vector<string> tools      = {"VS Code", "Git", "Nmap", "Wireshark", "SQLMap", "Kali"};
     } techStack;
 
     void greet() const {
         cout << "Hi! I'm " << name << "\n";
         cout << role << " from " << from << "\n";
+        cout << note << "\n";
     }
 };
 

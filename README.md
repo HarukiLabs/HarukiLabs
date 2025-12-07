@@ -2,7 +2,7 @@
 
 # Normies
 
-<img src="https://i.imgflip.com/gif/ae96xx" width="700">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhkbHBmbWFyNmhidW85Y2Z5ZGV2dTJnZmIxN2N1ZzdmMG43dGttOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif" width="700">
 
 <br>
 

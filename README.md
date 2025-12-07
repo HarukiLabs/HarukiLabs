@@ -1,12 +1,12 @@
 <div align="center">
 
-# Normies (┬┬﹏┬┬)
+# Want to change my life (>'-'<)
 
 <img src="assets/n/kaoru-hana-wa-rin-to-saku-kaoruko-waguri.gif" width="700">
 
 <br>
 
-**Haruki HelloWorld** | VibeCode
+
 
 </div>
 

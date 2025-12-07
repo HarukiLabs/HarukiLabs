@@ -2,7 +2,7 @@
 
 # Normies
 
-<img src="https://imgflip.com/gif/ae96v4" width="700">
+<img src="https://imgur.com/QXC71Zp" width="700">
 
 <br>
 
@@ -119,11 +119,19 @@ int main() {
 
 ---
 
+## 📈 Contribution Graph
 
+<div align="center">
 
-<img align="right" height="150" src="https://imgflip.com/gif/ae96xx"  />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarukiLabs&theme=github-compact&hide_border=false&bg_color=292D3E&color=F8D866&line=F85D7F&point=FFFFFF)](https://github.com/HarukiLabs)
 
+</div>
 
+---
+
+<img align="right" height="150" src=""  />
+
+---
 
 ###
 
